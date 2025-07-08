@@ -7,5 +7,6 @@ class main {
   System.out.println("This is First jenkins program ");
   System.out.println("Thanks for  reach again "); 
   System.out.println(new Date());
+  System.out.println("x");
   }
 }
