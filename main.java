@@ -12,6 +12,8 @@ class main {
 
   System.out.println("Welcome to the Nagpur ");
     System.out.println("Thanks For Visit Again n.........");
-
+   
+     student std = new student();
+     std.studentall();
   }
 }
